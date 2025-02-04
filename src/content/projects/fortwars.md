@@ -2,7 +2,7 @@
 title: 'Open Forts'
 description: "Open source implementation of Garry's Mod Fortwars in S&box"
 date: 'Sep 27 2024'
-lang: 'C#, Razor, s&box'
+lang: 'C#, HTML, CSS, s&box'
 sbox: 'https://sbox.game/nolankicks/fortwars'
 image: 'fortwars/fortwars.png'
 ---

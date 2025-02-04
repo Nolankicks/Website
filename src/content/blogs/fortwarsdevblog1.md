@@ -23,9 +23,6 @@ public record OnGameEnd() : IGameEvent;
 Scene.Dispatch( new OnGameEnd() );
 ```
 
-### Shrimple Character Controller
-Shrimple Character Controller is a simple and easy to use character controller. It run well and is easy to tweak. The issues that came up when using it were quickly fixed by [Small Fish](https://smallfi.sh).
-
 <Header title="Game Loop" />
 
 Most of the game loop is handled through a simple switch state

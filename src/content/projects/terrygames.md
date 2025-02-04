@@ -2,7 +2,7 @@
 title: 'Terry Games'
 description: "A squid game inspired game for s&box."
 date: 'Feb 4 2025'
-lang: 'C#, Razor, s&box'
+lang: 'C#, HTML, CSS, s&box'
 image: 'terrygames/TerryGames512.png'
 ---
 
