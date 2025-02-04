@@ -6,7 +6,7 @@ date: 'Oct 19 2024'
 
 <Spotify src="track/6HVVwW3M9O11PMsAkMb2D8" />
 
-I felt like redoing my website, it was kinda shit before. Now it's less shit, and it has blogs. I heard some good things about [Svelte Kit](https://kit.svelte.dev/).
+I felt like redoing my website, it was kinda bad before. Now it's better, and it has blogs. I heard some good things about [Svelte Kit](https://kit.svelte.dev/).
 Ever since I wrote a bot for my discord I've been wanting to jump into web dev.
 
 <Header title="How it works" />
@@ -30,7 +30,7 @@ date: 'Oct 19 2024'
 
 <Spotify src="track/6HVVwW3M9O11PMsAkMb2D8" />
 
-I felt like redoing my website, it was kinda shit before. Now it's less shit, and it has blogs. I heard some good things about [Svelte Kit](https://kit.svelte.dev/).
+I felt like redoing my website, it was kinda bad before. Now it's better, and it has blogs. I heard some good things about [Svelte Kit](https://kit.svelte.dev/).
 Ever since I wrote a bot for my discord I've been wanting to jump into web dev.
 
 <Header title="How it works" />

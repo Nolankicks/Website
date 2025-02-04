@@ -26,8 +26,8 @@
 </div>
 
 <article class="flex flex-col font-poppins w-full mx-auto 2xl:w-[75%]">
-        <div class="mb-10 text-white text-shadow flex flex-col self-center">
-        <p class="bg-white rounded-lg h-1 flex transition-all mb-10 text-white mx-4" />
+        <div class="mb-5 text-white text-shadow flex flex-col self-center">
+        <p class="bg-white rounded-lg h-1 flex transition-all mb-5 text-white mx-4" />
         <article class="bg-secondary rounded-md p-5 font-poppins backdrop-blur-3xl shadow-2xl justify-center flex animate-fadein mx-4">
             <article class="prose text-white prose-headings:font-bold prose-headings:text-white prose-headings:font-poppins prose-a:underline prose-a:text-white hover:prose-a:text-tertiary hover:prose-a:transition-all">
                 {#if data.blogPost.edited}
